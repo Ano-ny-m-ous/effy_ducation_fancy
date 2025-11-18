@@ -54,6 +54,10 @@ menu:
     url:               /philosophy/
   - title:             Cases | 案例
     url:               /case/
+  - title:             Services | 服务
+    url:               /services/
+  - title:             Blog | 博客
+    url:               /blog/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -267,10 +271,10 @@ hydejack:
     always:            false
 
     # Set to `true` to use the dark theme based on visitors' preference (OS setting).
-    dynamic:           true
+    dynamic:           false
 
     # Set to `true` to allow visitors to switch between light and dark mode.
-    icon:              true
+    icon:              false
 
   # ⚡️ DANGER ZONE ⚡️
   # ----------------

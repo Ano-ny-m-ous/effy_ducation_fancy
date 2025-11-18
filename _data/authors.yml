@@ -24,7 +24,7 @@ author1:
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
     email:           <sample_email@gmail.com>
-    wechat:          /assets/img/wechat_contact.png
+    wechat:          /contact/
     # twitter:         <username>
     # github:          <username>
     # email:           <mail@domain.tld>
